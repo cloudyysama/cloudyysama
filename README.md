@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Python, Pandas, NumPy, Matplotlib**
 
-- 🔎 "I think therefore I am." **~**
+- 🔎 " I think therefore I am **."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
